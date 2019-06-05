@@ -15,4 +15,3 @@
 
 + V.I.P - Has gone above and beyond expectations to helpt the stream
 + V.I.P+ - Worked on and completed projects with Badgerdox
-]\
