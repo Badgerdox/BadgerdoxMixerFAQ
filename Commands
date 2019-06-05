@@ -12,7 +12,7 @@ Don't have a lot of coin to spend yet yearn for a better rank? No problem check 
 + #main_color5
 
 #### General-
-**+ !retweet**
++ !retweet
 + !uptime
 + !top5points
 + !time
@@ -29,8 +29,6 @@ Don't have a lot of coin to spend yet yearn for a better rank? No problem check 
 + !boss [cool down = 30min.]
 
 ## Subscribers
-
-+ Post links in Discord chat
 + Subs only Discord channel
 
 #### Change overlay colors-
@@ -41,6 +39,10 @@ Don't have a lot of coin to spend yet yearn for a better rank? No problem check 
 + #color_spring2
 + #color_vice1
 + #color_vice2
+
+## Subscribers+
++ Post links in Discord chat
+
 
 ####General
 !give
