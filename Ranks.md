@@ -1,7 +1,7 @@
 # Twitch / Discord Ranks
 
 ## Free Ranks
-[How to contribute/Support for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing)
+[How to Contribute/Support for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing)
 
 + Kit - Newly joined
 + Broc - Chats once in a while, contributes a bit
