@@ -59,7 +59,7 @@ Even more perks and commands coming soon!
 
 + Post links in stream chat
 + Discord VIP only channel.
-+ Access to DankMemes bot in discord chat [Commands - https://dankmemer.lol/commands]
++ Access to DankMemes bot in discord chat [[Commands -](https://dankmemer.lol/commands)]
 
 #### Change overlay colors-
 
