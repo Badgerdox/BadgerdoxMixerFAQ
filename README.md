@@ -62,7 +62,7 @@ Commands available by rank. More perks and commands to be added soon!
 # Discord Badger Scout Ranks
 
 + Kit - Newly joined
-+ Broc - Chats maybe once a week, contributes a bit
++ Broc - Chats maybe once in a while, contributes a bit
 + Palawan - Chats a few times a week, contributes some
 + Javan - Chats regularly, contributes a few times a week
 + Honey - Chats regularly, contributes a lot! ***Same level as a base Subscriber
