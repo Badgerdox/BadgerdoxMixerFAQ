@@ -1,5 +1,5 @@
-# TwitchUserCommands
-Commands available by rank. More perks and commands to be added soon!
+# Twitch & Discord Commands
+Commands available by rank. More perks and commands coming soon!
 
 ## Everyone
 
@@ -50,7 +50,7 @@ Commands available by rank. More perks and commands to be added soon!
 
 + Post links in stream chat
 + Discord VIP only channel.
-+ Access to DankMemes bot in discord chat
++ Access to DankMemes bot in discord chat [Commands - https://dankmemer.lol/commands]
 
 #### Change overlay colors-
 
@@ -59,7 +59,7 @@ Commands available by rank. More perks and commands to be added soon!
 
 
 
-# Discord Badger Scout Ranks
+# Twitch / Discord Ranks
 
 + Kit - Newly joined
 + Broc - Chats maybe once in a while, contributes a bit
