@@ -14,4 +14,4 @@
 + Subscriber++ Subed Badgerdox on Twitch for 6+ months, chats regularly, contributes a bit
 
 + V.I.P - Has gone above and beyond expectations to helpt the stream
-+ V.I.P+ - Worked on and completed projects with Badgerdox
++ V.I.P+ - Worked on and completed a project(s) with Badgerdox
