@@ -4,11 +4,11 @@ Commands available by rank!
 ## Everyone
 
 #### Change overlay colors-
-#main_color1
-#main_color2
-#main_color3
-#main_color4
-#main_color5
++ #main_color1
++ #main_color2
++ #main_color3
++ #main_color4
++ #main_color5
 
 #### General-
 !uptime
