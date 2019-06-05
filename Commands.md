@@ -48,14 +48,12 @@ Even more perks and commands coming soon!
 + #color_vice1
 + #color_vice2
 
+#### General
++ !give
++ !hosting
+
 ## Subscribers+
 + Post links in Discord chat
-
-
-#### General
-!give
-!hosting
-
 
 ## Vips
 
