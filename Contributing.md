@@ -8,6 +8,6 @@ and get your message played live on stream!
 Do you have knowledge that could help out new game devs, programmers, or artists? 
 Please stop by our [discord](https://discord.gg/hDXemwA) and share! Tips, 
 best practices and general advice are highly valued. 
-Bonus points if you can directly help other users!
+Bonus points if you directly help other users!
 
 ### The more engaged with the community you are the higher your rank will be.
