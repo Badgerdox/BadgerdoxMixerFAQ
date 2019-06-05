@@ -55,6 +55,7 @@ More perks and commands coming soon!
 
 ## Subscribers+
 + Post links in Discord chat
++ Use Quotes [Commands](https://github.com/StreamlabsSupport/Streamlabs-Chatbot/wiki/Built-in-Commands#quotes)
 
 ## Vips
 
