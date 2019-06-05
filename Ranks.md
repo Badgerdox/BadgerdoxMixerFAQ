@@ -1,7 +1,10 @@
 # Twitch / Discord Ranks
 
+## Free Ranks
+[How to contribute/Support for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing)
+
 + Kit - Newly joined
-+ Broc - Chats maybe once in a while, contributes a bit
++ Broc - Chats once in a while, contributes a bit
 + Palawan - Chats a few times a week, contributes some
 + Javan - Chats regularly, contributes a few times a week
 + Honey - Chats regularly, contributes a lot! ***Same level as a base Subscriber
@@ -12,3 +15,4 @@
 
 + V.I.P - Has gone above and beyond expectations to helpt the stream
 + V.I.P+ - Worked on and completed projects with Badgerdox
+]\
