@@ -37,6 +37,7 @@ More perks and commands coming soon!
 + !boss [cool down = 30min.]
 
 ## Subscribers
++ Music [Commands](https://github.com/StreamlabsSupport/Streamlabs-Chatbot/wiki/Built-in-Commands#songrequest)
 + Subs only Discord channel
 
 #### Change overlay colors-
