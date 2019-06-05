@@ -3,7 +3,7 @@ Commands available by [rank](). More perks and commands coming soon!
 
 ## Don't have a lot of coin to spend yet yearn for a better rank? 
 ## No problem check out all the ways you can 
-## earn ranks by [supporting the stream for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing) 
+## rank up by [supporting the stream for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing) 
 
 ## Everyone
 
