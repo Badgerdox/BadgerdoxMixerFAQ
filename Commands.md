@@ -1,6 +1,6 @@
 # Twitch & Discord Commands
 Commands available by [rank](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Ranks.md). 
-Even more perks and commands coming soon!
+More perks and commands coming soon!
 
 ### Don't have a lot of coin to spend yet yearn for a better rank? 
 ### No problem check out all the ways you can rank up by
@@ -59,7 +59,7 @@ Even more perks and commands coming soon!
 
 + Post links in stream chat
 + Discord VIP only channel.
-+ Access to DankMemes bot in discord chat [[Commands -](https://dankmemer.lol/commands)]
++ Access to DankMemes bot in discord chat [[Commands](https://dankmemer.lol/commands)]
 
 #### Change overlay colors-
 
