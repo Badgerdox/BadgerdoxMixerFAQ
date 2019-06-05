@@ -1,5 +1,6 @@
 # Twitch & Discord Commands
-Commands available by [rank](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Ranks.md). More perks and commands coming soon!
+Commands available by [rank](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Ranks.md). 
+Even more perks and commands coming soon!
 
 ## Don't have a lot of coin to spend yet yearn for a better rank? 
 ## No problem check out all the ways you can 
