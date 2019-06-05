@@ -1,11 +1,19 @@
 
 # Can't swing a monthly subscrption? No problem! 
-# There are many ways you can help support the channel and growing community. 
+## There are many ways you can help support the channel and growing community. 
 
 
 
-### Whenever stream is live be the first once every 15 minutes to fill out the [Loots link](https://loots.com/badgerdox)
+
+
+
+
+### Whenever the stream is live be the first every 15 minutes to fill out the [Loots link](https://loots.com/badgerdox)
 ### and get your message played live on stream!
+
+
+
+
 
 
 
