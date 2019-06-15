@@ -1,3 +1,5 @@
+#Under construction, Rank perks are yet to be included
+
 # Twitch / Discord Ranks
 
 ## Free Ranks
