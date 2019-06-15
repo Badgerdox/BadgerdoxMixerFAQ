@@ -1,6 +1,5 @@
-#Under construction, Rank perks are yet to be included
-
 # Twitch / Discord Ranks
+  Ranks open up chat perks
 
 ## Free Ranks
 [How to Contribute/Support for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing)
