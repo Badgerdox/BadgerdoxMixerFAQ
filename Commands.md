@@ -13,11 +13,11 @@ More perks and commands coming soon!
 ## Everyone
 
 #### Change overlay colors-
-+ #main_color1
-+ #main_color2
-+ #main_color3
-+ #main_color4
-+ #main_color5
++ #main1
++ #main2
++ #main3
++ #main4
++ #main5
 
 #### General-
 + !retweet
@@ -41,13 +41,13 @@ More perks and commands coming soon!
 + Subs only Discord channel
 
 #### Change overlay colors-
-+ #color_emerald1
-+ #color_emerald2
-+ #color_nebula
-+ #color_spring1
-+ #color_spring2
-+ #color_vice1
-+ #color_vice2
++ #emerald1
++ #emerald2
++ #nebula
++ #spring1
++ #spring2
++ #vice1
++ #vice2
 
 #### General
 + !give
