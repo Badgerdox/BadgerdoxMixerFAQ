@@ -2,9 +2,9 @@
 Commands available by [rank](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Ranks.md). 
 More perks and commands coming soon!
 
-### Don't have a lot of coin to spend yet yearn for a better rank? 
-### No problem check out all the ways you can rank up by
-### [supporting the stream for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing.md) 
+# Don't have a lot of coin to spend yet yearn for a better rank? 
+# No problem check out all the ways you can rank up by
+# [supporting the stream for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing.md) 
 
 
 
