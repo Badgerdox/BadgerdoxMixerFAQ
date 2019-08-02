@@ -7,7 +7,7 @@ More perks and commands coming soon!
  [supporting the stream for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing.md) 
 
 
-####Display Emotes On Stream
+#### Display Emotes On Stream
 + !hi
 + !cry
 + !rage
