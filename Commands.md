@@ -50,11 +50,9 @@ Ex: !slots 25
 + !ffa 
 
 
-
 #### General-
 + !loots
 + !commands
-+ Music [Commands](https://github.com/StreamlabsSupport/Streamlabs-Chatbot/wiki/Built-in-Commands#songrequest)
 + !retweet
 + !uptime
 + !top5points
