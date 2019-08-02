@@ -5,7 +5,7 @@
 [Easy points / Betting %s](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Points.md)
 
 
-#### Display Emotes On Stream
+#### Display Emotes On Stream [Moving soon to regular/sub rank] 
 + !hi
 + !cry
 + !rage
