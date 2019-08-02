@@ -29,9 +29,8 @@
 
 
 #### Games-
-+ !heist <points>    
++ !heist [points]    
   Ex: !heist 100
-  [cool down = 60 min.] 
   
 + !duel             [cool down = 60 min.] 
 + !ffa                  [cool down = 120 min.]
