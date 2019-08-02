@@ -27,6 +27,16 @@
 + #lines3
 + #alien2
 
+
+#### Games-
++ !heist <points>    
+  Ex: !heist 100
+  [cool down = 60 min.] 
+  
++ !duel             [cool down = 60 min.] 
++ !ffa                  [cool down = 120 min.]
++ !boss                 [cool down = 30min.]
+
 #### General-
 + !loots
 + !commands
@@ -41,11 +51,7 @@
 + !followers
 + !followed
 
-#### Games-
-+ !heist [cool down = 60 min.] 
-+ !challenge [cool down = 60 min.] 
-+ !ffa [cool down = 120 min.]
-+ !boss [cool down = 30min.]
+
 
 ## Subscribers
 + Subs only Discord channel
