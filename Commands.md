@@ -51,6 +51,7 @@ Ex: !slots 25
 
 
 #### General-
++ !support
 + !loots
 + !commands
 + !retweet
