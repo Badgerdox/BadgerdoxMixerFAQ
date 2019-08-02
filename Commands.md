@@ -1,5 +1,5 @@
 # Twitch & Discord Commands
-## Perks and commands added all the time!
+## Perks and commands added all the time.
 
 ### Become a regular at 1000 points! 
 
