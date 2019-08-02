@@ -1,13 +1,14 @@
 # Twitch & Discord Commands
 ## Perks and commands added all the time!
 
+### Become a regular at 1000 points! 
+
 
 #### Display Emotes On Stream
 + !hi
 + !cry
 + !rage
 + More coming Soon!
-
 
 [Overlay Designs](https://imgur.com/a/eDu3yvB)
 #### Change overlay colors-
@@ -22,19 +23,33 @@
 + #splatter
 + #alien1
 
-#### Sub+/VIP overlay colors-
+#### Regular overlay colors-
 + #smoke3
 + #lines3
 + #alien2
 
+#### Media Share
++ !request [youtube url]
 
 #### Games-
 + !heist [points]    
-  Ex: !heist 100
+Ex: !heist 100
   
-+ !duel             [cool down = 60 min.] 
-+ !ffa                  [cool down = 120 min.]
-+ !boss                 [cool down = 30min.]
++ !duel [username] [points]
+Ex: !duel Badgerdox 100
+
++ !gamble [points]
+Ex: !gamble 10
+
++ !8ball [question]
+Ex: !8ball is badger awesome?
+
++ !slots [points]
+Ex: !slots 25
+
++ !ffa 
+
+
 
 #### General-
 + !loots
@@ -50,30 +65,16 @@
 + !followers
 + !followed
 
-
-
-## Subscribers
+ 
+## Subscribers 
 + Subs only Discord channel
 
-
-
-#### General
 + !give
 + !hosting
 
-## Subscribers+
+## Regulars+
 + Post links in Discord chat
 + Quote [Commands](https://github.com/StreamlabsSupport/Streamlabs-Chatbot/wiki/Built-in-Commands#quotes)
-
-
-
-## Vips
-
-+ Post links in stream chat
-+ Discord VIP only channel.
 + Access to DankMemes bot in discord chat [[Commands](https://dankmemer.lol/commands)]
 
-#### Change overlay colors-
-
-#### General
 !shoutout
