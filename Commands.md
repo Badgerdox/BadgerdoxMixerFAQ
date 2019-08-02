@@ -7,19 +7,28 @@ More perks and commands coming soon!
  [supporting the stream for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing.md) 
 
 
-
-
-
-## Everyone
-
+[Overlay Designs](https://imgur.com/a/eDu3yvB)
 #### Change overlay colors-
-+ #main1
-+ #main2
-+ #main3
-+ #main4
-+ #main5
++ #smoke1
++ #lines1
++ #sqr
++ #acid
+
+#### Sub overlay colors-
++ #smoke2
++ #lines2
++ #splatter
++ #alien1
+
+#### Sub+/VIP overlay colors-
++ #smoke3
++ #lines3
++ #alien2
 
 #### General-
++ !loots
++ !commands
++ Music [Commands](https://github.com/StreamlabsSupport/Streamlabs-Chatbot/wiki/Built-in-Commands#songrequest)
 + !retweet
 + !uptime
 + !top5points
@@ -37,17 +46,9 @@ More perks and commands coming soon!
 + !boss [cool down = 30min.]
 
 ## Subscribers
-+ Music [Commands](https://github.com/StreamlabsSupport/Streamlabs-Chatbot/wiki/Built-in-Commands#songrequest)
 + Subs only Discord channel
 
-#### Change overlay colors-
-+ #emerald1
-+ #emerald2
-+ #nebula
-+ #spring1
-+ #spring2
-+ #vice1
-+ #vice2
+
 
 #### General
 + !give
@@ -56,6 +57,8 @@ More perks and commands coming soon!
 ## Subscribers+
 + Post links in Discord chat
 + Quote [Commands](https://github.com/StreamlabsSupport/Streamlabs-Chatbot/wiki/Built-in-Commands#quotes)
+
+
 
 ## Vips
 
