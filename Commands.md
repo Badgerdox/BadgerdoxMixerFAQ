@@ -1,9 +1,5 @@
 # Twitch & Discord Commands
-Perks and commands added all the time!
-
- Don't have a lot of coin to spend yet yearn for a better rank? 
- No problem check out all the ways you can rank up by
- [supporting the stream for free!](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Contributing.md) 
+## Perks and commands added all the time!
 
 
 #### Display Emotes On Stream
