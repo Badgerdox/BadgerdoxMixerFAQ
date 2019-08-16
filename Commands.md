@@ -12,6 +12,7 @@
 + !instagram
 + !facebook
 + !resources      New to coding? Use the command for my recommendations
++ !code    Link to my github with code from stream/turials
 + !retweet
 + !uptime
 + !top5points
