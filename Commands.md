@@ -4,6 +4,24 @@
 ## Become a regular at 1000 points! 
 [Easy points / Betting %s](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Points.md)
 
+#### General-
++ !commands
++ !support
++ !siscord
++ !youtube
++ !instagram
++ !facebook
++ !resources      New to coding? Use the command for my recommendations
++ !retweet
++ !uptime
++ !top5points
++ !time
++ !stats
++ !recentfollowers
++ !following
++ !followers
++ !followed
+
 [Emote Overlay](https://imgur.com/7sm9pKC)
 #### Display Emotes On Stream [Moving soon to regular/sub rank] 
 + !hi
@@ -49,21 +67,6 @@ Ex: !8ball is badger awesome?
 Ex: !slots 25
 
 + !ffa 
-
-
-#### General-
-+ !support
-+ !loots
-+ !commands
-+ !retweet
-+ !uptime
-+ !top5points
-+ !time
-+ !stats
-+ !recentfollowers
-+ !following
-+ !followers
-+ !followed
 
  
 ## Subscribers 
