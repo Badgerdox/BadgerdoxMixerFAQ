@@ -84,7 +84,9 @@ Ex: !slots 25
 !shoutout
 
 
-#Rules
+
+
+# Rules
 
 Feel free to ask for help!
 
