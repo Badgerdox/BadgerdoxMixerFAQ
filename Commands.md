@@ -82,3 +82,19 @@ Ex: !slots 25
 + Access to DankMemes bot in discord chat [[Commands](https://dankmemer.lol/commands)]
 
 !shoutout
+
+
+#Rules
++
+#Feel free to ask for help!
++
+
+#Use common sense.
++
+#Treat others as if they were your favorite grandma on her b-day.
++
+#Please voice constructive feedback
++
+#No Spam.
++
+#Can post links at Regular rank
