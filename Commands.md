@@ -86,15 +86,15 @@ Ex: !slots 25
 
 #Rules
 
-#Feel free to ask for help!
+Feel free to ask for help!
 
 
-#Use common sense.
+Use common sense.
 
-#Treat others as if they were your favorite grandma on her b-day.
+Treat others as if they were your favorite grandma on her b-day.
 
-#Please voice constructive feedback
+Please voice constructive feedback
 
-#No Spam.
+No Spam.
 
-#Can post links at Regular rank
+Can post links at Regular rank
