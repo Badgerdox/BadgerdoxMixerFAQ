@@ -85,16 +85,16 @@ Ex: !slots 25
 
 
 #Rules
-+
+
 #Feel free to ask for help!
-+
+
 
 #Use common sense.
-+
+
 #Treat others as if they were your favorite grandma on her b-day.
-+
+
 #Please voice constructive feedback
-+
+
 #No Spam.
-+
+
 #Can post links at Regular rank
