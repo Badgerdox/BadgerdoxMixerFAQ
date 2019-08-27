@@ -1,13 +1,13 @@
 # Twitch & Discord Commands
 ## Perks and commands added all the time.
 
-## Become a regular at 1000 points! 
+#### Become a regular at 1000 points! 
 [Easy points / Betting %s](https://github.com/Badgerdox/BadgerdoxTwitchFAQ/blob/master/Points.md)
 
 #### General-
 + !commands
 + !support
-+ !siscord
++ !discord
 + !youtube
 + !instagram
 + !facebook
