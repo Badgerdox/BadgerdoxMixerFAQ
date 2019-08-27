@@ -8,20 +8,11 @@
 + !commands
 + !support
 + !discord
-+ !youtube
++ !utube
 + !instagram
 + !facebook
 + !resources      New to coding? Use the command for my recommendations
 + !code    Link to my github with code from stream/turials
-+ !retweet
-+ !uptime
-+ !top5points
-+ !time
-+ !stats
-+ !recentfollowers
-+ !following
-+ !followers
-+ !followed
 
 [Emote Overlay](https://imgur.com/7sm9pKC)
 #### Display Emotes On Stream [Moving soon to regular/sub rank] 
@@ -48,8 +39,7 @@
 + #lines3
 + #alien2
 
-#### Media Share
-+ !request [youtube url]
+
 
 #### Games-
 + !heist [points]    
